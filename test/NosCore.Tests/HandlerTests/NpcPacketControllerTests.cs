@@ -30,6 +30,7 @@ using NosCore.Shared.Enumerations.Character;
 using NosCore.Shared.Enumerations.Map;
 using Character = NosCore.GameObject.Character;
 using NosCore.Configuration;
+using NosCore.Data.GraphQl;
 using NosCore.GameObject.ComponentEntities.Interfaces;
 using NosCore.GameObject.Services.ItemBuilder;
 using NosCore.GameObject.Services.MapItemBuilder;
